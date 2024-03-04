@@ -11,4 +11,7 @@ const Customreactelement = React.createElement(
   "Google"
 );
 
-ReactDOM.createRoot(document.getElementById("root")).render(Customreactelement);
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <App />,
+  Customreactelement
+);

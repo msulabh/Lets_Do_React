@@ -1,0 +1,45 @@
+#js-align {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.js-input-btn {
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+.js-input-pass {
+  background-color: white;
+  padding: 20px 20px;
+  width: 800px;
+  border-radius: 15px;
+}
+
+.copy-btn {
+  background-color: RGB(10, 102, 194);
+  color: white;
+  /* margin-left: 10px; */
+  padding: 20px 20px;
+  border-radius: 15px;
+}
+
+.copy-btn:hover {
+  background-color: white;
+  color: RGB(10, 102, 194);
+}
+
+#second {
+  margin-top: 20px;
+}
+
+.length {
+  margin-left: 15px;
+  font-size: 30px;
+  color: RGB(10, 102, 194);
+}
+
+.js-checkbox {
+  margin-left: 10px;
+  width: 20px;
+  height: 20px;
+}
